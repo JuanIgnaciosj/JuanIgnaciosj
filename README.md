@@ -12,6 +12,7 @@ ____
 
 ## :hammer_and_wrench: Tools & Knowledges
 ____
+
 <div class="cat">
    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' 
      width="30" 
@@ -29,6 +30,9 @@ ____
      width="30" 
      height="30">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' 
+     width="30" 
+     height="30">
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' 
      width="30" 
      height="30">
 </div>
