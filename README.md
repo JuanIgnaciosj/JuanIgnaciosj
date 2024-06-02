@@ -3,7 +3,7 @@ ____
 
 - 👋 Hi, I’m @JuanIgnacio
 - 👀 I'm a chilean Engineer, passionate nerd & midtime gamer thinking on retirement.
-- 🌱 I’m interested in programing on ML & Data Science. Also I'm a enthusiast on programing on RPi.
+- 🌱 I’m interested in programing on ML & Data Science. Also I'm a enthusiast on programing on RPi, Python and SelfHosting.
 - 💞️ I’m looking to collaborate on Open Source projects related with: Python, RPi, Machine Learning 
 - 📫 <a href="https://www.linkedin.com/in/juanignaciosj"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' 
      width="15" 
