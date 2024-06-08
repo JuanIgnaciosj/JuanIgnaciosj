@@ -29,10 +29,7 @@ ____
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' 
      width="30" 
      height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' 
-     width="30" 
-     height="30">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' 
+   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' 
      width="30" 
      height="30">
 </div>
@@ -54,6 +51,9 @@ ___
      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' 
      width="30" 
      height="30"> 
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' 
+     width="30" 
+     height="30">
 </div>
 
 ____
