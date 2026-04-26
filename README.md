@@ -13,48 +13,30 @@ ____
 ## :hammer_and_wrench: Tools & Knowledges
 ____
 
-<div class="cat">
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' 
-     width="30" 
-     height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' 
-     width="30" 
-     height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg' 
-     width="30" 
-     height="30">
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' 
-     width="30" 
-     height="30">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' 
-     width="30" 
-     height="30">
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' 
-     width="30" 
-     height="30">
-</div>
+<table>
+  <tr>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width="40" height="40"/></td>
+  </tr>
+</table>
 
 ___
 
 ## :bulb: Some experience with :
 
-<div class="cat">
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' 
-     width="30" 
-     height="30">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg' 
-     width="30" 
-     height="30">
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg' 
-     width="30" 
-     height="30"> 
-     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' 
-     width="30" 
-     height="30"> 
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' 
-     width="30" 
-     height="30">
-</div>
+<table>
+  <tr>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' width="40" height="40"/></td>
+  </tr>
+</table>
 
 ____
 
