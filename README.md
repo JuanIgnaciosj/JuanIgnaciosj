@@ -13,15 +13,16 @@ ____
 ## :hammer_and_wrench: Tools & Knowledges
 ____
 
-## :hammer_and_wrench: Tools & Knowledges
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="40" height="40"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' width="40" height="40"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg' width="40" height="40"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width="40" height="40"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' width="40" height="40"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width="40" height="40"/>
-
+<table>
+  <tr>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' width="40" height="40"/></td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width="40" height="40"/></td>
+  </tr>
+</table>
 ___
 
 ## :bulb: Some experience with :
