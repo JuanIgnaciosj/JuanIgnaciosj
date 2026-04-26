@@ -13,7 +13,7 @@ ____
 ## :hammer_and_wrench: Tools & Knowledges
 ____
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="40" height="40"/></td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' width="40" height="40"/></td>
@@ -28,7 +28,7 @@ ___
 
 ## :bulb: Some experience with :
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width="40" height="40"/></td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg' width="40" height="40"/></td>
